@@ -1,0 +1,15 @@
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\bin\Debug\net7.0\TwoSumOpt.exe
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\bin\Debug\net7.0\TwoSumOpt.deps.json
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\bin\Debug\net7.0\TwoSumOpt.runtimeconfig.json
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\bin\Debug\net7.0\TwoSumOpt.dll
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\bin\Debug\net7.0\TwoSumOpt.pdb
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.csproj.AssemblyReference.cache
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.AssemblyInfoInputs.cache
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.AssemblyInfo.cs
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.csproj.CoreCompileInputs.cache
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.dll
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\refint\TwoSumOpt.dll
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.pdb
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\TwoSumOpt.genruntimeconfig.cache
+C:\Users\nilan\source\repos\Q3hometask\OptimizeTwoSum\TwoSumOpt\obj\Debug\net7.0\ref\TwoSumOpt.dll
